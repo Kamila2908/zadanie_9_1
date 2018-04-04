@@ -11,3 +11,7 @@ function getTriangleArea(a, h) {
 }
 
 console.log(getTriangleArea(10, 6))
+
+var triangle1Area = getTriangleArea(10, 15);
+var triangle2Area = getTriangleArea(12, 17);
+var triangle3Area = getTriangleArea(8, 11);
